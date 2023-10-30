@@ -11,6 +11,8 @@ sites:
     url: https://upia-ke.4g-capital.io
   - name: Twitter
     url: https://twitter.com
+  - name: Test Site
+    url: victorbungey.github.io
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
