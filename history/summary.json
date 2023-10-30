@@ -70,5 +70,25 @@
     "timeMonth": 225,
     "timeYear": 225,
     "dailyMinutesDown": {}
+  },
+  {
+    "name": "Test Site",
+    "url": "victorbungey.github.io",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
+    "slug": "test-site",
+    "status": "up",
+    "uptime": "2.61%",
+    "uptimeDay": "2.61%",
+    "uptimeWeek": "2.61%",
+    "uptimeMonth": "2.61%",
+    "uptimeYear": "2.61%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2023-10-30": 0
+    }
   }
 ]
