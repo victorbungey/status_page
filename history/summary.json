@@ -4,18 +4,20 @@
     "url": "https://www.4g-capital.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.4g-capital.com.ico",
     "slug": "4-g-capital",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 313,
-    "timeDay": 134,
-    "timeWeek": 313,
-    "timeMonth": 313,
-    "timeYear": 313,
-    "dailyMinutesDown": {}
+    "time": 526,
+    "timeDay": 1186,
+    "timeWeek": 526,
+    "timeMonth": 526,
+    "timeYear": 526,
+    "dailyMinutesDown": {
+      "2023-11-03": 0
+    }
   },
   {
     "name": "Mambu",
@@ -88,7 +90,7 @@
     "timeMonth": 82,
     "timeYear": 82,
     "dailyMinutesDown": {
-      "2023-11-03": 37,
+      "2023-11-03": 97,
       "2023-11-02": 1440,
       "2023-11-01": 1440,
       "2023-10-31": 1440,
