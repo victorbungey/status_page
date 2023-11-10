@@ -60,19 +60,19 @@
     "url": "https://twitter.com",
     "icon": "https://icons.duckduckgo.com/ip3/twitter.com.ico",
     "slug": "twitter",
-    "status": "up",
-    "uptime": "99.92%",
-    "uptimeDay": "99.11%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.92%",
-    "uptimeYear": "99.92%",
-    "time": 772,
-    "timeDay": 3162,
-    "timeWeek": 1219,
-    "timeMonth": 772,
-    "timeYear": 772,
+    "status": "down",
+    "uptime": "100.00%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1264,
+    "timeDay": 4654,
+    "timeWeek": 2010,
+    "timeMonth": 1264,
+    "timeYear": 1264,
     "dailyMinutesDown": {
-      "2023-11-10": 13
+      "2023-11-10": 0
     }
   },
   {
@@ -92,7 +92,7 @@
     "timeMonth": 131,
     "timeYear": 131,
     "dailyMinutesDown": {
-      "2023-11-10": 273,
+      "2023-11-10": 481,
       "2023-11-09": 1440,
       "2023-11-08": 1440,
       "2023-11-07": 1440,
